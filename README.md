@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at **@Ownage-Soft-LTD**
 
-- 🌱 I’m currently learning **NodeJs and Web3**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **php, laravel, vuejs, reactjs**
+- 💬 Ask me about **PHP, Laravel, Javascript**
 
 - 📫 How to reach me **olatayo.olayemi.peter@gmail.com**
 
